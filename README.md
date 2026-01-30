@@ -627,13 +627,10 @@ sqlite3 data.db "VACUUM;"
 ## 👥 Kontributor
 
 Proyek ini dikembangkan untuk sistem absensi di:
-- **Universitas Muhammadiyah Surabaya**
-- **Universitas Pakuan Bogor**
-- **Politeknik Negeri Malang**
-- **Politeknik Negeri Jakarta**
-- **Institut Pertanian Bogor**
-- **SMK Infokom**
-- **IT Planning Department**
+- **Raka Maulana Bintang**
+- **Ira Fasira**
+- **Nala Zahwa Rohmah**
+- **A'yun Nur Hadist**
 
 ## 📝 License
 
@@ -649,16 +646,7 @@ Jika mengalami masalah atau ada pertanyaan:
 2. Review logs: `journalctl -u absensi.service -f`
 3. Create issue di repository ini (jika menggunakan Git)
 
-## 🚀 Future Improvements
 
-Roadmap pengembangan:
-- [ ] Web dashboard untuk monitoring real-time
-- [ ] Export laporan ke Excel/PDF
-- [ ] Multi-camera support
-- [ ] Cloud backup otomatis
-- [ ] Mobile app untuk notifikasi
-- [ ] Anti-spoofing (liveness detection)
-- [ ] Integration dengan sistem HR/payroll
 
 ---
 
